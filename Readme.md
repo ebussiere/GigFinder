@@ -15,7 +15,6 @@ In the other terminal, `cd` into `express-back-end`. Run `npm install` or `yarn`
 
 In the browser, you can click on the button and see the data get loaded.
 
-!['Welcome-Page'](/Hiring.png)
 !['Job-Page'](/Jobs.png)
 
 
